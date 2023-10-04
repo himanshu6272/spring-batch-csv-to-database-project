@@ -1,0 +1,1 @@
+INSERT INTO femaleuser (id, firstName, lastName, gender, email, phone) VALUES (?,?,?,?,?,?);
